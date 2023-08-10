@@ -2,14 +2,21 @@
   text-align: center;
 }
 body {
-  background-color: aquamarine;
+  background-color: rgb(127, 217, 255);
 }
 h1 {
-  font-size: 5rem;
-  color: brown;
+  margin-top: 0.5rem;
+  font-size: 4rem;
+  color: rgb(165, 42, 140);
 }
 
 p {
   color: blueviolet;
-  font-size: 2rem;
+  font-size: 1.5rem;
+}
+
+img {
+  width: 40rem;
+  height: 22rem;
+  border: medium solid grey;
 }
